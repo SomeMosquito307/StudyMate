@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+streamlit
+pymupdf
+pillow
+pytesseract
+sentence-transformers
+faiss-cpu
+ibm-watsonx-ai
+ibm-cloud-sdk-core
+python-dotenv
+tqdm
+pytest
